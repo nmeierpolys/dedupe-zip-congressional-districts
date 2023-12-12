@@ -1,0 +1,15 @@
+{
+  "name": "@nmeierpolys/dedupe-zip-congressional-districts",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha *.test.js"
+  },
+  "engines": {
+    "node": "^20.10.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
